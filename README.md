@@ -1,4 +1,4 @@
-gitkraken_handson workshop training 
+The GitKraken IQSS Hands-on workshop
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used
