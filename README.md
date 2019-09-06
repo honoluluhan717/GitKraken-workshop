@@ -1,4 +1,4 @@
-gitkraken_handson
+gitkraken_handson workshop training 
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used
