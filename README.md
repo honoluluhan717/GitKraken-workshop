@@ -1,5 +1,4 @@
-The GitKraken IQSS Hands-on workshop held on Sept 6th in the morning
-
+The GitKraken IQSS Hands-on workshop held on Sept 6th
 
 
 ## workshop materials 
